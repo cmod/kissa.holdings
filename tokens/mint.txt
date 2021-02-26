@@ -1,0 +1,4 @@
+Successfully submitted Mint Transaction to the Zora Media Contract. 
+Contract Address: 0xabEFBc9fD2F806065b4f3C237d4b59D9A97Bcac7. 
+ChainId 1. 
+Transaction Hash: 0xa047442d1dd6b716e71ac556cb77ba95a2bb70e4131a49f15643ca81636a8356.
